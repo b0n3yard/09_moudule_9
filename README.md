@@ -3,9 +3,9 @@
 # Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#Credits)
+- [Credits](#credits)
 - [Testing](#testing)
-- [Questions](#Questioning)
+- [Questions](#questioning)
 - [License](#license)
 # Description
 this was interesting. a solid foundation for what comes next
