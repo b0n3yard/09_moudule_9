@@ -14,7 +14,13 @@ to install this project
 - first pull the repo from github, 
 - then in that direcory run in the console "npm init" 
 - and once that finishes running run "npm install inquirer"
-# usage    
+# usage  
+
+<video width='320' height = '240' controls>
+        <source src = './samplereadme.mp4' type = 'video/mp4'>
+    </video>
+    <br>
+
 once installed you can initiate the program by running "node index.js"
 # Credits
 Michael Klein
