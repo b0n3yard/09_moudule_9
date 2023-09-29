@@ -5,19 +5,22 @@
 - [Usage](#usage)
 - [Credits](#Credits)
 - [Testing](#testing)
-- [Questions](#Questions)
+- [Questions](#Questioning)
 - [License](#license)
 # Description
 this was interesting. a solid foundation for what comes next
 # installation
-to install this project first pull the repo from github, then in that direcory run in the console "npm init" and once that finishes running run "npm install inquirer", once those are install you can initiate the program by running "node index.js"
+to install this project
+- first pull the repo from github, 
+- then in that direcory run in the console "npm init" 
+- and once that finishes running run "npm install inquirer"
 # usage    
-n/a
+once installed you can initiate the program by running "node index.js"
 # Credits
 Michael Klein
 # testing
 n/a
-# Questions
+# Questioning
 contact me at: [napplicable50@gmail.com](mailto:napplicable50@gmail.com)
 or visit my github at: https://github.com/b0n3yard
 # license

@@ -3,9 +3,9 @@
 # Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#Credits)
+- [Credits](#credits)
 - [Testing](#testing)
-- [Questions](#Questions)
+- [Question](#questions)
 - [License](#license)
 # Description
 sample description

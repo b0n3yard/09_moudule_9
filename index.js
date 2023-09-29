@@ -11,9 +11,9 @@ function writedata(e,ho){
 # Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#Credits)
+- [Credits](#credits)
 - [Testing](#testing)
-- [Questions](#Questions)
+- [Questions](#questions)
 - [License](#license)
 # Description
 ${e.description}
