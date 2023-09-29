@@ -27,7 +27,7 @@ ${e.contrabutions}
 ${e.tests}
 # Questions
 contact me at: [${e.questions}](mailto:${e.questions})
-or visit my github at: (https://github.com/${e.github})
+or visit my github at: https://github.com/${e.github}
 # license
 Licenced under:
 ${e.licence}
@@ -35,15 +35,15 @@ ${e.licence}
 
        
         `
-    writeToFile('readme.md', hi)
+    writeToFile('samplereadme.md', hi)
     
 }
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.appendFile(fileName, data, (err) =>{
+    fs.writeFile(fileName, data, (err) =>{
         if(err) throw err;
         
-        console.log('hello')
+       
         
     });
 
@@ -54,7 +54,7 @@ function init() {
     inquirer.prompt([
     {
         name: 'title',
-        message:'hello?'
+        message:'Enter Title?'
 
     },
     {
@@ -119,23 +119,17 @@ function init() {
  ]).then((e) =>{
         if(e.licence === 'GNU'){
             return getgnulicence().then((gnue) =>{
-                console.log("hi")
+               
 
                 const ho = getbadge(e.licence, gnue.gnu)
                 e.licence = gnue.gnu
                 writedata(e,ho);
             })
         }
-        console.log(e.licence);
-        console.log(e.description);
+        
         const ho = getbadge(e.licence)
         writedata(e,ho);
     })
-    
-   
-    
-
-
 
 }
 function getgnulicence(){

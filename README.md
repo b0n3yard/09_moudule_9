@@ -1,8 +1,5 @@
-# Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)        
-
-# My title [![License:WTFPL ](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+# My README [![License:WTFPL ](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 # Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,46 +8,18 @@
 - [Questions](#Questions)
 - [License](#license)
 # Description
-iii
+this was interesting. a solid foundation for what comes next
 # installation
-i
+to install this project first pull the repo from github, then in that direcory run in the console "npm init" and once that finishes running run "npm install inquirer", once those are install you can initiate the program by running "node index.js"
 # usage    
-i
+n/a
 # Credits
-i
+Michael Klein
 # testing
-i
+n/a
 # Questions
 contact me at: [napplicable50@gmail.com](mailto:napplicable50@gmail.com)
-or visit my github at: (https://github.com/b0n3yard)
-# license
-Licenced under:
-WTFPL Licence
-[![License:WTFPL ](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
-
-       
-        
-# hi i [![License:WTFPL ](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
-# Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#Credits)
-- [Testing](#testing)
-- [Questions](#Questions)
-- [License](#license)
-# Description
-i
-# installation
-i
-# usage    
-i
-# Credits
-i
-# testing
-i
-# Questions
-contact me at: [i](mailto:i)
-or visit my github at: (https://github.com/i)
+or visit my github at: https://github.com/b0n3yard
 # license
 Licenced under:
 WTFPL
